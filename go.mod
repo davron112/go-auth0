@@ -1,4 +1,4 @@
-module github.com/krakend/go-auth0
+module github.com/davron112/go-auth0
 
 go 1.20
 
